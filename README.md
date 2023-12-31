@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @cuoyan1
 #include<stdio.h>
 int add(int a,int b)
 {
@@ -6,7 +5,6 @@ int add(int a,int b)
     c=a+b;
     return c;
 }
-
 int main() {
     int d = 0;
     int e = 0;
@@ -36,7 +34,6 @@ int main() {
     {
         printf("%d\n",i);
     }
-
     return 0;
 }
 
