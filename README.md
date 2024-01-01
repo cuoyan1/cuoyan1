@@ -1,15 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-
+错颜
+定义函数，转义字符，while、for循环分支语句
 
 #include<stdio.h>
 int add(int a,int b)
